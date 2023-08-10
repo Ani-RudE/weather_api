@@ -1,0 +1,2 @@
+- Website Link - https://ani-rude.github.io/weather_api/
+- API from - https://openweathermap.org/
